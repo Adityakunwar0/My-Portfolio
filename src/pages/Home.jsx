@@ -1751,7 +1751,7 @@ export default function Home() {
                 </div>
               ))}
               <a
-                href="https://drive.google.com/uc?export=download&id=1AfyULCg7bzyzwKRV1az6D27aqDGF6QgZ"
+                href="https://drive.google.com/file/d/1KUjpBLojj1QGNnpCc7gW-ayl_pKMFxTM/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
                 className="btn-hover"
